@@ -21,15 +21,13 @@
 
 ### About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm Python Developer 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- I’m working as a Information Technology Support Engineer at Sber.
 
-- :seedling: Exploring Technical Content Writing.
+- I have also been doing a professional education program at Yandex Practicum as a backend developer, during which I have been developing web applications.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- In my free time, I solve problems on Stepik and YandexContest. I also watch YouTube channels selfedu, Andrey += Pronin, Yandex Academy.
 
 ---
 
