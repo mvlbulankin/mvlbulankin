@@ -23,7 +23,7 @@
 
 I'm Python Developer 
 
-- I’m working as a Information Technology Support Engineer at Sber.
+- I’m working as Information Technology Support Engineer at Sber.
 
 - I have also been doing a professional education program at Yandex Practicum as a backend developer, during which I have been developing web applications.
 
