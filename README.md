@@ -3,7 +3,7 @@
     hey there, I'm Mikhail
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-	<h3>Python Developer from Nizhny Novgorod</h3>
+	<h3>Data Engineer from Nizhny Novgorod</h3>
 </div>
 
 <div id="socials" align="center">
@@ -21,13 +21,7 @@
 
 ### About Me :
 
-I'm Python Developer 
-
-- I’m working as Information Technology Support Engineer at Sber.
-
-- I have also been doing a professional education program at Yandex Practicum as a backend developer, during which I have been developing web applications.
-
-- In my free time, I solve problems on Stepik and YandexContest. I also watch YouTube channels selfedu, Andrey += Pronin, Yandex Academy.
+- I’m working as Data Engineer at SBER.
 
 ---
 
