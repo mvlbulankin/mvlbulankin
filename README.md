@@ -21,7 +21,7 @@
 
 ### About Me :
 
-- I’m working as Data Engineer at SBER.
+- Data Engineer at Magnit.Tech
 
 ---
 
