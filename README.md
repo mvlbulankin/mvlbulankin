@@ -3,7 +3,7 @@
     hey there, I'm Mikhail
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-	<h3>Data Engineer from Nizhny Novgorod</h3>
+	<h3>Data Engineer</h3>
 </div>
 
 <div id="socials" align="center">
@@ -29,6 +29,9 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60" height="60"/>&nbsp;
