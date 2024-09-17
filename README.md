@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/mikhail-bulankin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
-### Languages and Tools :
+### Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="60" height="60"/>&nbsp;
@@ -22,5 +22,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60" height="60"/>&nbsp;
 </div>
-
----
