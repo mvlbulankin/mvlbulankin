@@ -3,7 +3,6 @@
     hey there, I'm Mikhail
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-	<h3>Data Engineer</h3>
 </div>
 
 <div id="socials" align="center">
@@ -41,14 +40,3 @@
 </div>
 
 ---
-
-### My stat:
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=akafer&hide=contribs&show_icons=true&theme=dark">
-  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=mvlbulankin&hide=contribs&show_icons=true&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=amvlbulankin&layout=compact&theme=dark">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akafer&layout=compact&theme=dark" />
-</a>
-</div>
