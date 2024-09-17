@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>
-    hey there, I'm Mikhail
+    hey there, I'm Mikhail, Data Engineer at Magnit.Tech
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -16,13 +16,6 @@
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 </div>
-
-
-### About Me :
-
-- Data Engineer at Magnit.Tech
-
----
 
 ### Languages and Tools :
 
